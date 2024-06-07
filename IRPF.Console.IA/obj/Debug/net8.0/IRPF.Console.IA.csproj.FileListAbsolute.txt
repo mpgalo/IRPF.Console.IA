@@ -1,0 +1,14 @@
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/bin/Debug/net8.0/IRPF.Console.IA
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/bin/Debug/net8.0/IRPF.Console.IA.deps.json
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/bin/Debug/net8.0/IRPF.Console.IA.runtimeconfig.json
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/bin/Debug/net8.0/IRPF.Console.IA.dll
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/bin/Debug/net8.0/IRPF.Console.IA.pdb
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/IRPF.Console.IA.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/IRPF.Console.IA.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/IRPF.Console.IA.AssemblyInfo.cs
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/IRPF.Console.IA.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/IRPF.Console.IA.dll
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/refint/IRPF.Console.IA.dll
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/IRPF.Console.IA.pdb
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/IRPF.Console.IA.genruntimeconfig.cache
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/ref/IRPF.Console.IA.dll
