@@ -12,3 +12,4 @@
 /Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/IRPF.Console.IA.pdb
 /Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/IRPF.Console.IA.genruntimeconfig.cache
 /Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/ref/IRPF.Console.IA.dll
+/Volumes/Extreme SSD/Projetos/GitHub/IRPF.Console.IA/IRPF.Console.IA/obj/Debug/net8.0/IRPF.Console.IA.sourcelink.json
